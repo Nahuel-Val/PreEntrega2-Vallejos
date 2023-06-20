@@ -1,0 +1,15 @@
+
+.lista{
+    display: flex;
+    flex-direction: row;
+}
+
+.h2{
+    text-align: center;
+}
+
+h1{
+    text-align: center;
+    text-decoration: underline red
+    ;
+}
